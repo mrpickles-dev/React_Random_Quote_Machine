@@ -1,0 +1,21 @@
+.quoteBox {
+    text-align: center;
+}
+
+a.btn.btn-info {
+    margin-left: 10px;
+    width: 40px;
+}
+
+.jumbotron {
+    margin-top: 200px;
+}
+
+p#text {
+    font-size: 1.4em;
+}
+
+h5#author {
+    font-size: 1.5em;
+    font-style: italic;
+}
